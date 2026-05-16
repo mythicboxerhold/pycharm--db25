@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains PyCharm for PC | JetBrains PyCharm for Windows with JetBrains PyCharm for PC | JetBrains PyCharm for Windows exclusive Extension: database-tools & debugger, the
 
 
 
